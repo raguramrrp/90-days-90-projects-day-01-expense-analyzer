@@ -1,0 +1,141 @@
+date,description,category,amount,payment_method,notes
+2026-06-01,Avalon Bay Apartment Rent,Rent & Housing,1250.0,Bank Transfer,Monthly residential rent
+2026-06-05,City Electric & Power,Utilities,115.17,Bank Transfer,Power utility bill
+2026-06-05,Xfinity Broadband Internet,Utilities,70.0,Card,Fiber gigabit plan
+2026-06-15,Netflix Premium Streaming,Subscriptions,19.99,Card,Recurring monthly membership
+2026-06-15,Spotify Premium Music,Subscriptions,10.99,Card,Recurring monthly membership
+2026-06-15,YouTube Premium Family,Subscriptions,22.99,Card,Recurring monthly membership
+2026-06-15,ChatGPT Plus OpenAI,Subscriptions,20.0,Card,Recurring monthly membership
+2026-06-15,Planet Fitness Gym Membership,Subscriptions,25.0,Card,Recurring monthly membership
+2026-06-21,Local Bistro & Bar,Dining,89.84,Card,
+2026-06-21,Steam Game Purchase,Entertainment,58.93,Card,
+2026-06-24,Whole Foods Market,Groceries,60.32,Cash,
+2026-06-24,AMC Theatres Cinema,Entertainment,17.75,Cash,
+2026-06-24,Local Bistro & Bar,Dining,61.22,Card,
+2026-06-25,Subway Sandwiches,Dining,9.75,Card,
+2026-06-26,City Bowl Arcade,Entertainment,23.57,Card,
+2026-06-27,Chevron Fuel Station,Transportation,49.66,Cash,
+2026-06-27,Chipotle Mexican Grill,Dining,20.84,Card,
+2026-06-29,AMC Theatres Cinema,Entertainment,28.95,UPI,
+2026-06-29,Aldi Grocery,Groceries,33.09,Cash,
+2026-07-01,Avalon Bay Apartment Rent,Rent & Housing,1250.0,Bank Transfer,Monthly residential rent
+2026-07-02,Chevron Fuel Station,Transportation,34.59,Card,
+2026-07-02,Walmart Supercenter,Groceries,151.53,Card,
+2026-07-03,Walmart Supercenter,Groceries,83.36,Card,
+2026-07-05,City Electric & Power,Utilities,81.38,Bank Transfer,Power utility bill
+2026-07-05,Xfinity Broadband Internet,Utilities,70.0,Card,Fiber gigabit plan
+2026-07-06,Kroger Market,Groceries,30.63,UPI,
+2026-07-09,Steam Game Purchase,Entertainment,27.01,Card,
+2026-07-11,Walmart Supercenter,Groceries,143.36,Card,
+2026-07-11,Costco Wholesale,Groceries,215.06,UPI,
+2026-07-12,Nike Official Store,Shopping,87.22,Card,
+2026-07-13,Costco Wholesale,Groceries,188.04,Card,
+2026-07-13,Luxury Fine Dining Gala Celebration,Dining,420.0,Card,Anniversary group dinner party
+2026-07-15,Netflix Premium Streaming,Subscriptions,19.99,Card,Recurring monthly membership
+2026-07-15,Spotify Premium Music,Subscriptions,10.99,Card,Recurring monthly membership
+2026-07-15,YouTube Premium Family,Subscriptions,22.99,Card,Recurring monthly membership
+2026-07-15,ChatGPT Plus OpenAI,Subscriptions,20.0,Card,Recurring monthly membership
+2026-07-15,Planet Fitness Gym Membership,Subscriptions,25.0,Card,Recurring monthly membership
+2026-07-16,Starbucks Coffee,Dining,11.8,Cash,
+2026-07-16,Starbucks Coffee,Dining,11.83,UPI,
+2026-07-17,Live Concert Ticketmaster,Entertainment,121.69,Card,
+2026-07-19,Chevron Fuel Station,Transportation,32.02,Card,
+2026-07-19,Starbucks Coffee,Dining,5.34,Card,
+2026-07-19,Panera Bread Cafe,Dining,24.88,UPI,
+2026-07-22,Walmart Supercenter,Groceries,71.34,Card,
+2026-07-22,Uber Ride Downtown,Transportation,26.13,Card,
+2026-07-22,Chevron Fuel Station,Transportation,40.93,Card,
+2026-07-23,Shell Gas Station Fuel,Transportation,52.71,Card,
+2026-07-23,Chevron Fuel Station,Transportation,48.47,Card,
+2026-07-24,Live Concert Ticketmaster,Entertainment,121.39,Card,
+2026-07-25,Chevron Fuel Station,Transportation,35.7,Card,
+2026-07-28,CVS Pharmacy Rx,Healthcare,36.46,UPI,
+2026-07-29,Costco Wholesale,Groceries,204.43,Card,
+2026-07-30,Costco Wholesale,Groceries,236.73,UPI,
+2026-07-31,Dental Clinic Consultation Co-pay,Healthcare,58.51,UPI,
+2026-08-01,Avalon Bay Apartment Rent,Rent & Housing,1250.0,Bank Transfer,Monthly residential rent
+2026-08-01,Chevron Fuel Station,Transportation,34.9,Cash,
+2026-08-03,Panera Bread Cafe,Dining,14.3,Card,
+2026-08-05,City Electric & Power,Utilities,95.13,Bank Transfer,Power utility bill
+2026-08-05,Xfinity Broadband Internet,Utilities,70.0,Card,Fiber gigabit plan
+2026-08-05,Walmart Supercenter,Groceries,50.27,Card,
+2026-08-05,Domino's Pizza Delivery,Dining,37.38,Card,
+2026-08-06,CVS Pharmacy Rx,Healthcare,29.74,UPI,
+2026-08-07,Costco Wholesale,Groceries,260.26,Cash,
+2026-08-09,AMC Theatres Cinema,Entertainment,27.38,Cash,
+2026-08-09,Kroger Market,Groceries,74.51,Card,
+2026-08-10,Specialty ER Medical Co-insurance,Healthcare,850.0,Bank Transfer,Urgent care visit
+2026-08-13,Starbucks Coffee,Dining,10.96,Card,
+2026-08-14,Shell Gas Station Fuel,Transportation,61.12,Card,
+2026-08-15,Netflix Premium Streaming,Subscriptions,19.99,Card,Recurring monthly membership
+2026-08-15,Spotify Premium Music,Subscriptions,10.99,Card,Recurring monthly membership
+2026-08-15,YouTube Premium Family,Subscriptions,22.99,Card,Recurring monthly membership
+2026-08-15,ChatGPT Plus OpenAI,Subscriptions,20.0,Card,Recurring monthly membership
+2026-08-15,Planet Fitness Gym Membership,Subscriptions,25.0,Card,Recurring monthly membership
+2026-08-19,Amazon.com Marketplace,Shopping,93.42,Card,
+2026-08-20,Walmart Supercenter,Groceries,46.07,UPI,
+2026-08-21,Trader Joe's,Groceries,34.16,Card,
+2026-08-22,IKEA Furniture & Decor,Shopping,58.22,UPI,
+2026-08-23,Walmart Supercenter,Groceries,154.69,Card,
+2026-08-23,Kroger Market,Groceries,56.0,Card,
+2026-08-23,Kroger Market,Groceries,62.09,UPI,
+2026-08-27,Dental Clinic Consultation Co-pay,Healthcare,53.07,UPI,
+2026-08-27,Walmart Supercenter,Groceries,156.19,Card,
+2026-08-27,Chevron Fuel Station,Transportation,35.76,Cash,
+2026-08-29,Domino's Pizza Delivery,Dining,30.7,UPI,
+2026-08-30,Costco Wholesale,Groceries,286.82,Card,
+2026-08-30,Nike Official Store,Shopping,77.79,Cash,
+2026-08-31,Local Bistro & Bar,Dining,62.35,Card,
+2026-08-31,Whole Foods Market,Groceries,185.06,Card,
+2026-09-01,Avalon Bay Apartment Rent,Rent & Housing,1250.0,Bank Transfer,Monthly residential rent
+2026-09-02,Nike Official Store,Shopping,137.91,Card,
+2026-09-03,Trader Joe's,Groceries,44.49,Card,
+2026-09-03,Metro Transit Monthly Pass,Transportation,75.58,UPI,
+2026-09-05,City Electric & Power,Utilities,92.28,Bank Transfer,Power utility bill
+2026-09-05,Xfinity Broadband Internet,Utilities,70.0,Card,Fiber gigabit plan
+2026-09-05,AMC Theatres Cinema,Entertainment,32.66,Card,
+2026-09-07,Steam Game Purchase,Entertainment,45.14,Card,
+2026-09-07,Apple MacBook Pro M3 Repair Lab,Shopping,780.0,Card,Screen crack replacement
+2026-09-09,AMC Theatres Cinema,Entertainment,33.84,Card,
+2026-09-13,Dental Clinic Consultation Co-pay,Healthcare,64.09,Card,
+2026-09-13,Trader Joe's,Groceries,76.64,Card,
+2026-09-14,City Bowl Arcade,Entertainment,27.13,UPI,
+2026-09-14,Kroger Market,Groceries,99.87,Card,
+2026-09-14,Walmart Supercenter,Groceries,130.38,Card,
+2026-09-15,Netflix Premium Streaming,Subscriptions,19.99,Card,Recurring monthly membership
+2026-09-15,Spotify Premium Music,Subscriptions,10.99,Card,Recurring monthly membership
+2026-09-15,YouTube Premium Family,Subscriptions,22.99,Card,Recurring monthly membership
+2026-09-15,ChatGPT Plus OpenAI,Subscriptions,20.0,Card,Recurring monthly membership
+2026-09-15,Planet Fitness Gym Membership,Subscriptions,25.0,Card,Recurring monthly membership
+2026-09-16,Uber Ride Downtown,Transportation,31.93,Cash,
+2026-09-16,Aldi Grocery,Groceries,44.67,Cash,
+2026-09-17,Aldi Grocery,Groceries,72.08,Card,
+2026-09-17,Trader Joe's,Groceries,73.66,Card,
+2026-09-19,Subway Sandwiches,Dining,14.48,Card,
+2026-09-20,Live Concert Ticketmaster,Entertainment,73.69,Cash,
+2026-09-20,Local Bistro & Bar,Dining,105.81,UPI,
+2026-09-24,Trader Joe's,Groceries,86.84,Card,
+2026-09-25,Subway Sandwiches,Dining,8.31,UPI,
+2026-09-26,Aldi Grocery,Groceries,43.27,Card,
+2026-09-26,Domino's Pizza Delivery,Dining,23.13,Cash,
+2026-09-27,Aldi Grocery,Groceries,24.41,Card,
+2026-10-01,Avalon Bay Apartment Rent,Rent & Housing,1250.0,Bank Transfer,Monthly residential rent
+2026-10-02,Steam Game Purchase,Entertainment,41.05,Card,
+2026-10-03,Panera Bread Cafe,Dining,13.85,Card,
+2026-10-05,City Electric & Power,Utilities,120.51,Bank Transfer,Power utility bill
+2026-10-05,Xfinity Broadband Internet,Utilities,70.0,Card,Fiber gigabit plan
+2026-10-05,Subway Sandwiches,Dining,12.83,Card,
+2026-10-05,Whole Foods Market,Groceries,113.14,Cash,
+2026-10-05,Emergency Auto Transmission Repair,Transportation,950.0,Card,Unexpected breakdown on interstate
+2026-10-07,Local Bistro & Bar,Dining,85.2,Card,
+2026-10-09,Local Bistro & Bar,Dining,101.02,Cash,
+2026-10-10,Subway Sandwiches,Dining,14.4,Card,
+2026-10-10,Panera Bread Cafe,Dining,11.91,Card,
+2026-10-10,Whole Foods Market,Groceries,135.43,UPI,
+2026-10-14,Trader Joe's,Groceries,62.85,Card,
+2026-10-15,Netflix Premium Streaming,Subscriptions,19.99,Card,Recurring monthly membership
+2026-10-15,Spotify Premium Music,Subscriptions,10.99,Card,Recurring monthly membership
+2026-10-15,YouTube Premium Family,Subscriptions,22.99,Card,Recurring monthly membership
+2026-10-15,ChatGPT Plus OpenAI,Subscriptions,20.0,Card,Recurring monthly membership
+2026-10-15,Planet Fitness Gym Membership,Subscriptions,25.0,Card,Recurring monthly membership
+2026-10-15,Kroger Market,Groceries,99.69,Card,
