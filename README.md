@@ -68,21 +68,6 @@ People record expenses or download monthly credit card/bank statements, but rare
 - **🚀 One-Click Sample Dataset:** Instant demonstration mode pre-loads 140 realistic transactions across 4 months.
 
 ---
-
-## 5. Screenshots
-
-| Executive Dashboard | Upload & Auto-Categorization |
-| :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Upload](screenshots/upload_preview.png) |
-| *High-level KPIs, monthly trends, and category distribution* | *CSV column mapping, auto-categorization preview, and commit* |
-
-| Transaction Ledger & Anomaly Badges | Budget vs Actual Variance |
-| :---: | :---: |
-| ![Transactions](screenshots/transactions.png) | ![Budget Variance](screenshots/budget_variance.png) |
-| *Search, filtering, severity flags, and CSV/JSON export* | *Monthly target utilization, progress bars, and budget editor* |
-
-> *Note: For manual screenshot recreation, execute `run.bat`, navigate to each screen using the sidebar, and save captures into the `screenshots/` directory.*
-
 ---
 
 ## 6. Architecture Overview
@@ -337,9 +322,6 @@ test.bat
 
 ---
 
-## 21. Relevant Skills & Resume Keywords
-
-`Python`, `Pandas`, `NumPy`, `Data Analytics`, `Streamlit`, `Plotly`, `Scikit-Learn`, `TF-IDF Classification`, `Isolation Forest`, `Anomaly Detection`, `SQLite`, `Financial Analytics`, `CSV Processing`, `FinTech`, `Software Engineering`, `Pytest`, `Quality Assurance`
 
 ---
 
