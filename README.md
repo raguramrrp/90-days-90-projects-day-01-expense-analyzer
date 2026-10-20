@@ -70,7 +70,7 @@ People record expenses or download monthly credit card/bank statements, but rare
 ---
 ---
 
-## 6. Architecture Overview
+## 5. Architecture Overview
 
 ```mermaid
 flowchart LR
@@ -91,7 +91,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for full technical specificatio
 
 ---
 
-## 7. Technology Stack
+## 6. Technology Stack
 
 - **Frontend / Dashboard:** [Streamlit](https://streamlit.io/) (v1.35+)
 - **Interactive Visualizations:** [Plotly Express & Graph Objects](https://plotly.com/python/)
@@ -104,7 +104,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for full technical specificatio
 
 ---
 
-## 8. Project Directory Structure
+## 7. Project Directory Structure
 
 ```
 90-days-90-projects-day-01-expense-analyzer/
@@ -152,7 +152,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for full technical specificatio
 
 ---
 
-## 9. Prerequisites
+## 8. Prerequisites
 
 - **Operating System:** Windows 10 or 11 (64-bit)
 - **Python:** Python 3.10, 3.11, or 3.12 (Recommended: Python 3.12 64-bit)
@@ -161,7 +161,7 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for full technical specificatio
 
 ---
 
-## 10. Step-by-Step Windows Installation
+## 9. Step-by-Step Windows Installation
 
 ### Option A: One-Click Automated Setup (Recommended)
 1. Open Command Prompt or PowerShell in the project directory.
@@ -194,7 +194,7 @@ python scripts/train_classifier.py
 
 ---
 
-## 11. Quick Start Commands
+## 10. Quick Start Commands
 
 ```cmd
 :: Run automated test suite
@@ -207,7 +207,7 @@ Open **`http://localhost:8501`** in your browser.
 
 ---
 
-## 12. Environment Variables
+## 11. Environment Variables
 
 ExpenseIQ operates out of the box with zero required environment configuration. Optional overrides can be configured in `.env`:
 
@@ -225,7 +225,7 @@ STREAMLIT_SERVER_HEADLESS=true
 
 ---
 
-## 13. Dataset & Benchmark Specifications
+## 12. Dataset & Benchmark Specifications
 
 - **File:** `data/sample_expenses.csv`
 - **Volume:** 140 realistic transactions spanning 4 months.
@@ -238,7 +238,7 @@ STREAMLIT_SERVER_HEADLESS=true
 
 ---
 
-## 14. Example Usage: Input vs Output
+## 13. Example Usage: Input vs Output
 
 ### 1. Ingestion Input (Raw Statement CSV)
 ```csv
@@ -260,7 +260,7 @@ date,description,amount,payment_method
 
 ---
 
-## 15. Testing Instructions & Test Results
+## 14. Testing Instructions & Test Results
 
 Run the complete test suite:
 ```cmd
@@ -279,7 +279,7 @@ test.bat
 
 ---
 
-## 16. Known Limitations
+## 15. Known Limitations
 
 1. **Single-User Architecture:** SQLite is optimized for local, single-user access; it does not support distributed multi-tenant authentication.
 2. **Offline Banking Ingestion:** Uses standard CSV uploads rather than live Plaid/Finicity OAuth sync, avoiding paid enterprise API dependencies.
@@ -287,7 +287,7 @@ test.bat
 
 ---
 
-## 17. Troubleshooting
+## 16. Troubleshooting
 
 - **Python not found:** Ensure Python 3.10–3.12 is installed and "Add to PATH" was enabled during installation.
 - **Port 8501 in use:** Run `run.bat` or launch on an alternate port: `.\.venv\Scripts\streamlit run src/app.py --server.port=8502`.
@@ -295,7 +295,7 @@ test.bat
 
 ---
 
-## 18. Security & Privacy Considerations
+## 17. Security & Privacy Considerations
 
 - **100% Local Data Residency:** Financial records are stored exclusively in local SQLite database files on the host machine.
 - **Zero Cloud Leakage:** No transaction payloads, merchant names, or bank memos are transmitted over the internet.
@@ -303,7 +303,7 @@ test.bat
 
 ---
 
-## 19. Future Enhancements
+## 18. Future Enhancements
 
 - [ ] Multi-currency conversion with automatic daily exchange rates.
 - [ ] OCR receipt scanning via local Tesseract or lightweight vision models.
@@ -312,7 +312,7 @@ test.bat
 
 ---
 
-## 20. Learning Outcomes
+## 19. Learning Outcomes
 
 - Mastery of **Pandas** for time-series resampling, rolling averages, grouping, and aggregations.
 - Implementation of **hybrid NLP text classification** combining regex domain taxonomies with Scikit-learn TF-IDF pipelines.
@@ -322,7 +322,7 @@ test.bat
 
 ---
 
-## 21. License & Attribution
+## 20. License & Attribution
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
 Developed by **Raguram** as Day 1 of the **90 Days – 90 Projects Challenge**.
