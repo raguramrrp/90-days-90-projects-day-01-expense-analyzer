@@ -322,10 +322,7 @@ test.bat
 
 ---
 
-
----
-
-## 22. License & Attribution
+## 21. License & Attribution
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.  
 Developed by **Raguram** as Day 1 of the **90 Days – 90 Projects Challenge**.
